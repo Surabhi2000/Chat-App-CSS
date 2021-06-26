@@ -1,4 +1,5 @@
-# Frontend Mentor - Chat app CSS illustration [Click to see website](https://chatappillustration.netlify.app/)
+# Frontend Mentor - Chat app CSS illustration
+## [Click to see website](https://chatappillustration.netlify.app/)
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
 
